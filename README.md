@@ -1,4 +1,4 @@
-# WonderCMS-with-TinyMCE
+# WonderCMS with TinyMCE
 Implementation of TinyMCE to WonderCMS
 
 
